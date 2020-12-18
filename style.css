@@ -5,3 +5,6 @@ body {
 .card-body {
     background-color: rgb(154, 175, 194);
 }
+#cardmsg {
+    color: rgb(76, 241, 10);
+}

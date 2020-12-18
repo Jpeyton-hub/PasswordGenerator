@@ -34,7 +34,8 @@ function generate() {
     for (var i = 0; i < passLength; i++) {
         result += possChar.charAt(Math.floor(Math.random() * possChar.length)) 
     };
-    document.getElementById('cardmsg').textContent = result;    
+    document.getElementById('cardmsg').textContent = result;
+       
 } 
 
 button.addEventListener('click', (e) => {
