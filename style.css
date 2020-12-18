@@ -1,0 +1,7 @@
+body {
+    background-image: url(images/mtrix.jpg); 
+    background-size: cover;
+}
+.card-body {
+    background-color: rgb(154, 175, 194);
+}
