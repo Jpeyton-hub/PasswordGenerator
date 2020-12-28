@@ -6,6 +6,8 @@ For this small project I built a password generator that can accept parameters f
 - Numbers and symbols
 - The overall length of the password
 ---
+[Link to the site](https://jpeyton-hub.github.io/PasswordGenerator/)
+
 Please find a screenshot of the website below
 
 Thank you for looking and for any feedback!
