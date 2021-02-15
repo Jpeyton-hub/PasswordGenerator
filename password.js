@@ -5,7 +5,7 @@ var symbols = confirm("Include symbols?");
 var litLet = "abcdefghijklmnopqrstuvwxyz";
 var bigLet = litLet.toUpperCase();
 var possnums = "0123456789";
-var posssymbs = `!'()$%&*+,-./:;<=>?@[\]^_{|}~"`;
+var posssymbs = `!'()$%&*+,-./:;<=>?@[]^_{|}~"`;
 var passLength = parseInt(prompt("How many Characters?"));
 var possChar = "";
 var button = document.querySelector('#genbtn');
